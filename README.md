@@ -3,7 +3,7 @@
 I'm a developer with a strong background in both front-end and back-end technologies, actively looking for new opportunities to leverage my skills.
 
 ### 💻 Tech Stack
-- **Languages**: Python, HTML, CSS
+- **Languages**: Python, HTML, CSS, JavaScript, React
 - **Frameworks**: Flask, Jinja
 - **ORM**: SQLAlchemy
 
